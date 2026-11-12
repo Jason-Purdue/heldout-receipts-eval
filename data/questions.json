@@ -1,0 +1,1211 @@
+{
+ "docs": [
+  "biaf_8k",
+  "biaf_pr",
+  "divalproex_label",
+  "pono_ex21",
+  "temazepam_label",
+  "ten_8k",
+  "ten_pr"
+ ],
+ "questions": [
+  {
+   "id": "T8-1",
+   "doc": "ten_8k",
+   "question": "What is the date of this report?",
+   "accept": [
+    "November 6, 2026"
+   ],
+   "sources": [
+    "Date: November 6, 2026"
+   ],
+   "origin": "ten_8k#0"
+  },
+  {
+   "id": "T8-2",
+   "doc": "ten_8k",
+   "question": "For the quarter ended on what date did TEN Holdings announce its financial results?",
+   "accept": [
+    "September 30, 2026"
+   ],
+   "sources": [
+    "announce its financial results for the quarter ended September 30, 2026"
+   ],
+   "origin": "ten_8k#4"
+  },
+  {
+   "id": "T8-W",
+   "doc": "ten_8k",
+   "question": "Who signed the report on behalf of TEN Holdings?",
+   "accept": [
+    "Virgilio Torres"
+   ],
+   "sources": [
+    "By: /s/ Virgilio Torres"
+   ],
+   "origin": "signature line"
+  },
+  {
+   "id": "B8-1",
+   "doc": "biaf_8k",
+   "question": "What is the date of this report?",
+   "accept": [
+    "November 6, 2026"
+   ],
+   "sources": [
+    "Date of Report (Date of earliest event reported): November 6, 2026"
+   ],
+   "origin": "biaf_8k#0"
+  },
+  {
+   "id": "B8-2",
+   "doc": "biaf_8k",
+   "question": "For which quarter end did bioAffinity's press release include financial information?",
+   "accept": [
+    "September 30, 2026"
+   ],
+   "sources": [
+    "financial information for its third quarter ended September 30, 2026"
+   ],
+   "origin": "biaf_8k#4"
+  },
+  {
+   "id": "B8-W",
+   "doc": "biaf_8k",
+   "question": "Who signed the report on behalf of bioAffinity Technologies?",
+   "accept": [
+    "Maria Zannes"
+   ],
+   "sources": [
+    "By: /s/ Maria Zannes"
+   ],
+   "origin": "signature line"
+  },
+  {
+   "id": "P-1",
+   "doc": "pono_ex21",
+   "question": "What is the new Company Outside Closing Date?",
+   "accept": [
+    "June 30, 2027"
+   ],
+   "sources": [
+    "“Company Outside Closing Date” means June 30, 2027."
+   ],
+   "origin": "pono_ex21#0"
+  },
+  {
+   "id": "P-2",
+   "doc": "pono_ex21",
+   "question": "How many Parent Shares did the Equity Plan Reserve provide before this amendment?",
+   "accept": [
+    "6,000,000",
+    "6,000,000 Parent Shares"
+   ],
+   "sources": [
+    "replacing “6,000,000 Parent Shares” with “7,400,000 Parent Shares”"
+   ],
+   "origin": "pono_ex21#1"
+  },
+  {
+   "id": "P-3",
+   "doc": "pono_ex21",
+   "question": "When was the original Merger Agreement dated?",
+   "accept": [
+    "August 5, 2026"
+   ],
+   "sources": [
+    "that certain Merger Agreement dated as of August 5, 2026"
+   ],
+   "origin": "pono_ex21#2"
+  },
+  {
+   "id": "P-4",
+   "doc": "pono_ex21",
+   "question": "What is the Base Purchase Price?",
+   "accept": [
+    "$200,000,000"
+   ],
+   "sources": [
+    "“Base Purchase Price” means $200,000,000."
+   ],
+   "origin": "pono_ex21#3"
+  },
+  {
+   "id": "P-5",
+   "doc": "pono_ex21",
+   "question": "What is the date of this amendment?",
+   "accept": [
+    "November 5, 2026"
+   ],
+   "sources": [
+    "Dated as of November 5, 2026"
+   ],
+   "origin": "pono_ex21#4"
+  },
+  {
+   "id": "P-6",
+   "doc": "pono_ex21",
+   "question": "How many Parent Shares does the amended Equity Plan Reserve provide?",
+   "accept": [
+    "7,400,000",
+    "7,400,000 Parent Shares"
+   ],
+   "sources": [
+    "shall be deemed to refer to 7,400,000 Parent Shares"
+   ],
+   "origin": "pono_ex21#5"
+  },
+  {
+   "id": "P-W",
+   "doc": "pono_ex21",
+   "question": "Who signed on behalf of Blackstar Orbital Technologies Corporation?",
+   "accept": [
+    "Christopher Jannette"
+   ],
+   "sources": [
+    "BLACKSTAR ORBITAL TECHNOLOGIES CORPORATION\nBy: /s/ Christopher Jannette"
+   ],
+   "origin": "signature line"
+  },
+  {
+   "id": "TP-1",
+   "doc": "ten_pr",
+   "question": "On what date did the prior-year comparison quarter end?",
+   "accept": [
+    "September 30, 2025"
+   ],
+   "sources": [
+    "compared to $59,000 for the three months ended September 30, 2025"
+   ],
+   "origin": "ten_pr#0"
+  },
+  {
+   "id": "TP-2",
+   "doc": "ten_pr",
+   "question": "How much did TEN spend on legal expenses in the third quarter?",
+   "accept": [
+    "$0.5 million"
+   ],
+   "sources": [
+    "approximately $0.5 million in legal expenses related to ongoing litigation"
+   ],
+   "origin": "ten_pr#1"
+  },
+  {
+   "id": "TP-3",
+   "doc": "ten_pr",
+   "question": "What were TEN's SG&A expenses in the third quarter of 2025?",
+   "accept": [
+    "$2,185,000"
+   ],
+   "sources": [
+    "compared to SG&A expenses of $2,185,000 for the same period last year"
+   ],
+   "origin": "ten_pr#3"
+  },
+  {
+   "id": "TP-4",
+   "doc": "ten_pr",
+   "question": "When did TEN's common stock offering close?",
+   "accept": [
+    "June 30, 2026"
+   ],
+   "sources": [
+    "common stock offering, which closed on June 30, 2026"
+   ],
+   "origin": "ten_pr#4"
+  },
+  {
+   "id": "TP-5",
+   "doc": "ten_pr",
+   "question": "What was TEN's depreciation and amortization expense in the third quarter of 2026?",
+   "accept": [
+    "$10,000"
+   ],
+   "sources": [
+    "Depreciation and amortization expense decreased to $10,000 from $147,000"
+   ],
+   "origin": "ten_pr#5"
+  },
+  {
+   "id": "TP-6",
+   "doc": "ten_pr",
+   "question": "What was TEN's interest expense for the three months ended September 30, 2026?",
+   "accept": [
+    "$2,000"
+   ],
+   "sources": [
+    "Interest expense for the three months ended September 30, 2026 totaled $2,000"
+   ],
+   "origin": "ten_pr#6"
+  },
+  {
+   "id": "TP-7",
+   "doc": "ten_pr",
+   "question": "By how much did TEN's cost of revenue increase year over year in the third quarter?",
+   "accept": [
+    "$123,000"
+   ],
+   "sources": [
+    "was $261,000, a $123,000 or 89.1% increase"
+   ],
+   "origin": "ten_pr#7"
+  },
+  {
+   "id": "TP-8",
+   "doc": "ten_pr",
+   "question": "By what percentage did platform usage revenue decrease?",
+   "accept": [
+    "12.8%"
+   ],
+   "sources": [
+    "Platform usage revenue decreased by $63,000, or 12.8%, to $428,000."
+   ],
+   "origin": "ten_pr#8"
+  },
+  {
+   "id": "TP-9",
+   "doc": "ten_pr",
+   "question": "How much cash did TEN receive from stock option exercises during the third quarter?",
+   "accept": [
+    "$0.73 million",
+    "$0.7 million"
+   ],
+   "sources": [
+    "aggregate cash proceeds of approximately $0.73 million",
+    "$0.7 million in proceeds from the exercise of stock options"
+   ],
+   "origin": "ten_pr#9"
+  },
+  {
+   "id": "TP-10",
+   "doc": "ten_pr",
+   "question": "What was TEN's gross profit in the third quarter of 2026?",
+   "accept": [
+    "$379,000"
+   ],
+   "sources": [
+    "Gross profit was $379,000, compared to $405,000"
+   ],
+   "origin": "ten_pr#10"
+  },
+  {
+   "id": "TP-11",
+   "doc": "ten_pr",
+   "question": "What were TEN's short-term loans from related parties as of September 30, 2026?",
+   "accept": [
+    "$0.1 million"
+   ],
+   "sources": [
+    "Short-term loans from related parties declined to $0.1 million as of September 30, 2026"
+   ],
+   "origin": "ten_pr#11"
+  },
+  {
+   "id": "TP-12",
+   "doc": "ten_pr",
+   "question": "What were TEN's SG&A expenses in the third quarter of 2026?",
+   "accept": [
+    "$4,113,000"
+   ],
+   "sources": [
+    "expenses were $4,113,000, a $1,928,000 or 88.2% increase"
+   ],
+   "origin": "ten_pr#12"
+  },
+  {
+   "id": "TP-13",
+   "doc": "ten_pr",
+   "question": "By how many dollars did platform usage revenue decrease?",
+   "accept": [
+    "$63,000"
+   ],
+   "sources": [
+    "Platform usage revenue decreased by $63,000, or 12.8%, to $428,000."
+   ],
+   "origin": "ten_pr#13"
+  },
+  {
+   "id": "TP-14",
+   "doc": "ten_pr",
+   "question": "How much did TEN owe in short-term related-party borrowings at the beginning of the year?",
+   "accept": [
+    "$4.6 million"
+   ],
+   "sources": [
+    "reducing short-term related-party borrowings from $4.6 million at the beginning of the year"
+   ],
+   "origin": "ten_pr#15"
+  },
+  {
+   "id": "TP-15",
+   "doc": "ten_pr",
+   "question": "What was TEN's net loss in the third quarter of 2025?",
+   "accept": [
+    "$1,987,000"
+   ],
+   "sources": [
+    "compared to a net loss of $1,987,000, or $(0.84) per share, for the same period in 2025"
+   ],
+   "origin": "ten_pr#16"
+  },
+  {
+   "id": "TP-16",
+   "doc": "ten_pr",
+   "question": "How large was the common stock offering TEN closed in June 2026?",
+   "accept": [
+    "$7.5 million"
+   ],
+   "sources": [
+    "the Company’s $7.5 million common stock offering"
+   ],
+   "origin": "ten_pr#17"
+  },
+  {
+   "id": "BP-1",
+   "doc": "biaf_pr",
+   "question": "What was bioAffinity's net revenue for the three months ended September 30, 2025, to the dollar?",
+   "accept": [
+    "$ 1,446,066",
+    "1,446,066"
+   ],
+   "sources": [
+    "Net revenue $ 1,070,280 $ 1,446,066 $ 3,932,386 $ 4,569,146"
+   ],
+   "origin": "biaf_pr#0"
+  },
+  {
+   "id": "BP-2",
+   "doc": "biaf_pr",
+   "question": "By what percentage did clinical development expenses increase?",
+   "accept": [
+    "75%"
+   ],
+   "sources": [
+    "Clinical development expenses increased 75% to approximately $251,000"
+   ],
+   "origin": "biaf_pr#1"
+  },
+  {
+   "id": "BP-3",
+   "doc": "biaf_pr",
+   "question": "How large was the loss from the change in fair value of warrants in the third quarter of 2026?",
+   "accept": [
+    "$1.2 million",
+    "1,218,235"
+   ],
+   "sources": [
+    "a $1.2 million loss from the change in fair value of warrants",
+    "Loss on warrant liabilities (1,218,235 )"
+   ],
+   "origin": "biaf_pr#2"
+  },
+  {
+   "id": "BP-4",
+   "doc": "biaf_pr",
+   "question": "What were bioAffinity's operating expenses for the third quarter of 2026?",
+   "accept": [
+    "$4.6 million",
+    "4,580,952"
+   ],
+   "sources": [
+    "Operating expenses for the third quarter of 2026 were approximately $4.6 million",
+    "Total operating expenses 4,580,952 3,738,912 14,394,898 12,004,691"
+   ],
+   "origin": "biaf_pr#3"
+  },
+  {
+   "id": "BP-5",
+   "doc": "biaf_pr",
+   "question": "What was bioAffinity's loss from operations in the third quarter of 2026?",
+   "accept": [
+    "$3.5 million",
+    "3,510,672"
+   ],
+   "sources": [
+    "the increase in loss from operations of approximately $3.5 million from approximately $2.3 million in the prior-year quarter",
+    "Loss from operations (3,510,672 ) (2,292,846 )"
+   ],
+   "origin": "biaf_pr#4"
+  },
+  {
+   "id": "BP-6",
+   "doc": "biaf_pr",
+   "question": "What were clinical development expenses in the third quarter of 2025?",
+   "accept": [
+    "$143,000",
+    "143,311"
+   ],
+   "sources": [
+    "compared with approximately $143,000 in the third quarter of 2025",
+    "Clinical development 251,043 143,311 1,060,968 410,943"
+   ],
+   "origin": "biaf_pr#5"
+  },
+  {
+   "id": "BP-7",
+   "doc": "biaf_pr",
+   "question": "How much did bioAffinity raise in gross proceeds from its August and October 2026 offerings combined?",
+   "accept": [
+    "$8.0 million"
+   ],
+   "sources": [
+    "The Company raised an aggregate of $8.0 million in gross proceeds"
+   ],
+   "origin": "biaf_pr#6"
+  },
+  {
+   "id": "BP-8",
+   "doc": "biaf_pr",
+   "question": "What was bioAffinity's loss from operations in the prior-year quarter?",
+   "accept": [
+    "$2.3 million",
+    "2,292,846"
+   ],
+   "sources": [
+    "from approximately $2.3 million in the prior-year quarter",
+    "Loss from operations (3,510,672 ) (2,292,846 )"
+   ],
+   "origin": "biaf_pr#7"
+  },
+  {
+   "id": "BP-9",
+   "doc": "biaf_pr",
+   "question": "What is the par value of bioAffinity's common stock?",
+   "accept": [
+    "$0.007"
+   ],
+   "sources": [
+    "Common Stock, par value $0.007 per share"
+   ],
+   "origin": "biaf_pr#8"
+  },
+  {
+   "id": "BP-10",
+   "doc": "biaf_pr",
+   "question": "How many shares of preferred stock were outstanding at December 31, 2025?",
+   "accept": [
+    "700 shares",
+    "700"
+   ],
+   "sources": [
+    "150 shares and 700 shares issued and outstanding at September 30, 2026, and December 31, 2025, respectively"
+   ],
+   "origin": "biaf_pr#9"
+  },
+  {
+   "id": "BP-11",
+   "doc": "biaf_pr",
+   "question": "By what percentage did CyPath Lung testing revenue increase year to date?",
+   "accept": [
+    "79%"
+   ],
+   "sources": [
+    "testing revenue increases 79% year-to-date"
+   ],
+   "origin": "biaf_pr#10"
+  },
+  {
+   "id": "BP-12",
+   "doc": "biaf_pr",
+   "question": "What were bioAffinity's selling, general and administrative expenses in the third quarter of 2026?",
+   "accept": [
+    "$2.8 million",
+    "2,759,769"
+   ],
+   "sources": [
+    "Selling, general and administrative expenses increased 28% to approximately $2.8 million",
+    "Selling, general and administrative 2,759,769 2,209,441 8,859,961 6,876,551"
+   ],
+   "origin": "biaf_pr#11"
+  },
+  {
+   "id": "BP-13",
+   "doc": "biaf_pr",
+   "question": "How many shares of common stock is bioAffinity authorized to issue?",
+   "accept": [
+    "350,000,000 shares",
+    "350,000,000"
+   ],
+   "sources": [
+    "350,000,000 shares authorized"
+   ],
+   "origin": "biaf_pr#12"
+  },
+  {
+   "id": "BP-14",
+   "doc": "biaf_pr",
+   "question": "By what percentage did the number of ordering physicians increase in the third quarter?",
+   "accept": [
+    "89%"
+   ],
+   "sources": [
+    "The number of ordering physicians increased by 89% in the third quarter of 2026"
+   ],
+   "origin": "biaf_pr#13"
+  },
+  {
+   "id": "BP-15",
+   "doc": "biaf_pr",
+   "question": "What were bioAffinity's total assets as of September 30, 2026?",
+   "accept": [
+    "$ 7,553,671",
+    "7,553,671"
+   ],
+   "sources": [
+    "Total assets $ 7,553,671 $ 10,960,772"
+   ],
+   "origin": "biaf_pr#14"
+  },
+  {
+   "id": "BP-16",
+   "doc": "biaf_pr",
+   "question": "What is the par value of bioAffinity's preferred stock?",
+   "accept": [
+    "$0.001"
+   ],
+   "sources": [
+    "Preferred Stock, par value $0.001 per share"
+   ],
+   "origin": "biaf_pr#15"
+  },
+  {
+   "id": "DV-1",
+   "doc": "divalproex_label",
+   "question": "What is the therapeutic range of total valproate in epilepsy?",
+   "accept": [
+    "50 to 100 mcg/mL"
+   ],
+   "sources": [
+    "The therapeutic range in epilepsy is commonly considered to be 50 to 100 mcg/mL of total valproate"
+   ],
+   "origin": "divalproex_label#0"
+  },
+  {
+   "id": "DV-2",
+   "doc": "divalproex_label",
+   "question": "What range of valproate concentrations has been reported in human milk?",
+   "accept": [
+    "0.4 mcg/mL to 3.9 mcg/mL"
+   ],
+   "sources": [
+    "presence of valproate in human milk (range: 0.4 mcg/mL to 3.9 mcg/mL)"
+   ],
+   "origin": "divalproex_label#1"
+  },
+  {
+   "id": "DV-3",
+   "doc": "divalproex_label",
+   "question": "How many patients were in the twelve-month study of divalproex sodium delayed-release capsules for partial seizures?",
+   "accept": [
+    "169 patients",
+    "169"
+   ],
+   "sources": [
+    "(169 patients aged 3 to 10 years)"
+   ],
+   "origin": "divalproex_label#2"
+  },
+  {
+   "id": "DV-4",
+   "doc": "divalproex_label",
+   "question": "In the case review study of 583 patients, how many were older than 65?",
+   "accept": [
+    "72 patients",
+    "72"
+   ],
+   "sources": [
+    "In a case review study of 583 patients, 72 patients (12%) were greater than 65 years of age."
+   ],
+   "origin": "divalproex_label#3"
+  },
+  {
+   "id": "DV-5",
+   "doc": "divalproex_label",
+   "question": "What is the range of mean terminal half-life for valproate monotherapy?",
+   "accept": [
+    "9 to 16 hours"
+   ],
+   "sources": [
+    "Mean terminal half-life for valproate monotherapy ranged from 9 to 16 hours"
+   ],
+   "origin": "divalproex_label#4"
+  },
+  {
+   "id": "DV-6",
+   "doc": "divalproex_label",
+   "question": "What dose of lithium carbonate was given with valproate in the lithium interaction study?",
+   "accept": [
+    "300 mg TID",
+    "300 mg"
+   ],
+   "sources": [
+    "lithium carbonate (300 mg TID)"
+   ],
+   "origin": "divalproex_label#5"
+  },
+  {
+   "id": "DV-7",
+   "doc": "divalproex_label",
+   "question": "By how much did the fraction of phenobarbital dose excreted unchanged increase in the presence of valproate?",
+   "accept": [
+    "50%"
+   ],
+   "sources": [
+    "The fraction of phenobarbital dose excreted unchanged increased by 50% in presence of valproate."
+   ],
+   "origin": "divalproex_label#6"
+  },
+  {
+   "id": "DV-8",
+   "doc": "divalproex_label",
+   "question": "Above what dose is the safety of divalproex not established?",
+   "accept": [
+    "60 mg/kg/day"
+   ],
+   "sources": [
+    "Safety of doses above 60 mg/kg/day is not established"
+   ],
+   "origin": "divalproex_label#7"
+  },
+  {
+   "id": "DV-9",
+   "doc": "divalproex_label",
+   "question": "What share of the dose does mitochondrial beta-oxidation typically account for?",
+   "accept": [
+    "over 40%",
+    "40%"
+   ],
+   "sources": [
+    "Mitochondrial β-oxidation is the other major metabolic pathway, typically accounting for over 40% of the dose."
+   ],
+   "origin": "divalproex_label#10"
+  },
+  {
+   "id": "DV-10",
+   "doc": "divalproex_label",
+   "question": "In the monotherapy trial, what percentage of patients had at least one platelet value at or below 75 x 10^9/L?",
+   "accept": [
+    "27%",
+    "34/126"
+   ],
+   "sources": [
+    "34/126 patients (27%) receiving approximately 50 mg/kg/day on average, had at least one value of platelets ≤ 75 x 10 9 /L"
+   ],
+   "origin": "divalproex_label#11"
+  },
+  {
+   "id": "DV-11",
+   "doc": "divalproex_label",
+   "question": "What fraction of an administered dose appears in urine as a glucuronide conjugate in adults on monotherapy?",
+   "accept": [
+    "30 to 50%"
+   ],
+   "sources": [
+    "In adult patients on monotherapy, 30 to 50% of an administered dose appears in urine as a glucuronide conjugate."
+   ],
+   "origin": "divalproex_label#12"
+  },
+  {
+   "id": "DV-12",
+   "doc": "divalproex_label",
+   "question": "What was the estimated incidence of suicidal behavior or ideation among placebo-treated patients?",
+   "accept": [
+    "0.24%"
+   ],
+   "sources": [
+    "compared to 0.24% among 16,029 placebo-treated patients"
+   ],
+   "origin": "divalproex_label#13"
+  },
+  {
+   "id": "DV-13",
+   "doc": "divalproex_label",
+   "question": "By how much is the free fraction of valproate increased in elderly patients?",
+   "accept": [
+    "44%"
+   ],
+   "sources": [
+    "Intrinsic clearance is reduced by 39%; the free fraction is increased by 44%."
+   ],
+   "origin": "divalproex_label#14"
+  },
+  {
+   "id": "DV-14",
+   "doc": "divalproex_label",
+   "question": "Above what total trough valproate concentration does the probability of thrombocytopenia rise significantly in females?",
+   "accept": [
+    "110 mcg/mL"
+   ],
+   "sources": [
+    "total trough valproate plasma concentrations above 110 mcg/mL in females"
+   ],
+   "origin": "divalproex_label#15"
+  },
+  {
+   "id": "DV-15",
+   "doc": "divalproex_label",
+   "question": "How old were the infants at the time of evaluation in the breastfeeding study?",
+   "accept": [
+    "4 weeks to 19 weeks"
+   ],
+   "sources": [
+    "infants were aged from 4 weeks to 19 weeks at the time of evaluation"
+   ],
+   "origin": "divalproex_label#16"
+  },
+  {
+   "id": "DV-16",
+   "doc": "divalproex_label",
+   "question": "By how much did valproate decrease the plasma clearance of lorazepam?",
+   "accept": [
+    "17%"
+   ],
+   "sources": [
+    "accompanied by a 17% decrease in the plasma clearance of lorazepam"
+   ],
+   "origin": "divalproex_label#17"
+  },
+  {
+   "id": "TZ-1",
+   "doc": "temazepam_label",
+   "question": "In the 7 day study, how long before retiring was the 30 mg capsule given?",
+   "accept": [
+    "1 hour"
+   ],
+   "sources": [
+    "given a 30 mg temazepam capsule 1 hour before retiring"
+   ],
+   "origin": "temazepam_label#0"
+  },
+  {
+   "id": "TZ-2",
+   "doc": "temazepam_label",
+   "question": "How long before bedtime were doses given in the sleep laboratory studies?",
+   "accept": [
+    "30 minutes"
+   ],
+   "sources": [
+    "given 30 minutes prior to bedtime"
+   ],
+   "origin": "temazepam_label#1"
+  },
+  {
+   "id": "TZ-3",
+   "doc": "temazepam_label",
+   "question": "What strengths do temazepam capsules come in?",
+   "accept": [
+    "7.5 mg, 15 mg, 22.5 mg and 30 mg"
+   ],
+   "sources": [
+    "Temazepam capsules, 7.5 mg, 15 mg, 22.5 mg and 30 mg, are for oral administration."
+   ],
+   "origin": "temazepam_label#2"
+  },
+  {
+   "id": "TZ-4",
+   "doc": "temazepam_label",
+   "question": "What share of the metabolites was the O-conjugate of temazepam?",
+   "accept": [
+    "90%"
+   ],
+   "sources": [
+    "The major metabolite was the O-conjugate of temazepam (90%)"
+   ],
+   "origin": "temazepam_label#3"
+  },
+  {
+   "id": "TZ-5",
+   "doc": "temazepam_label",
+   "question": "What starting dose is recommended for elderly or debilitated patients?",
+   "accept": [
+    "7.5 mg"
+   ],
+   "sources": [
+    "it is recommended that therapy be initiated with 7.5 mg until individual responses are determined"
+   ],
+   "origin": "temazepam_label#4"
+  },
+  {
+   "id": "TZ-6",
+   "doc": "temazepam_label",
+   "question": "At what temperature should temazepam be stored?",
+   "accept": [
+    "68°F to 77°F",
+    "20°C to 25°C",
+    "20° to 25°C",
+    "68° to 77°F"
+   ],
+   "sources": [
+    "Store temazepam between 68°F to 77°F (20°C to 25°C).",
+    "Store at 20° to 25°C (68° to 77°F)"
+   ],
+   "origin": "temazepam_label#5"
+  },
+  {
+   "id": "TZ-7",
+   "doc": "temazepam_label",
+   "question": "What was the oral LD50 of temazepam in rabbits?",
+   "accept": [
+    ">2400 mg/kg",
+    "2400 mg/kg"
+   ],
+   "sources": [
+    "and >2400 mg/kg in rabbits"
+   ],
+   "origin": "temazepam_label#6"
+  },
+  {
+   "id": "TZ-8",
+   "doc": "temazepam_label",
+   "question": "What fraction of the dose appeared in the urine?",
+   "accept": [
+    "80% to 90%"
+   ],
+   "sources": [
+    "80% to 90% of the dose appeared in the urine"
+   ],
+   "origin": "temazepam_label#8"
+  },
+  {
+   "id": "TZ-9",
+   "doc": "temazepam_label",
+   "question": "How soon after dosing were measurable plasma concentrations reached?",
+   "accept": [
+    "10 to 20 minutes"
+   ],
+   "sources": [
+    "measurable plasma concentrations were achieved 10 to 20 minutes after dosing"
+   ],
+   "origin": "temazepam_label#9"
+  },
+  {
+   "id": "TZ-10",
+   "doc": "temazepam_label",
+   "question": "For how long were patients given temazepam nightly without evidence of tolerance?",
+   "accept": [
+    "at least 2 weeks",
+    "2 weeks"
+   ],
+   "sources": [
+    "when patients were given temazepam nightly for at least 2 weeks"
+   ],
+   "origin": "temazepam_label#12"
+  },
+  {
+   "id": "TZ-11",
+   "doc": "temazepam_label",
+   "question": "How long were the placebo-controlled sleep laboratory studies in chronic insomnia?",
+   "accept": [
+    "2 week"
+   ],
+   "sources": [
+    "Patients with chronic insomnia were evaluated in 2 week, placebo controlled sleep laboratory studies"
+   ],
+   "origin": "temazepam_label#14"
+  },
+  {
+   "id": "TZ-12",
+   "doc": "temazepam_label",
+   "question": "What was the range of the parent drug's short half-life?",
+   "accept": [
+    "0.4 to 0.6 hours"
+   ],
+   "sources": [
+    "the short half-life ranging from 0.4 to 0.6 hours"
+   ],
+   "origin": "temazepam_label#15"
+  },
+  {
+   "id": "TZ-13",
+   "doc": "temazepam_label",
+   "question": "What was the mean time to peak plasma levels?",
+   "accept": [
+    "1.5 hours"
+   ],
+   "sources": [
+    "occurring approximately 1.2 to 1.6 hours (mean 1.5 hours) after dosing"
+   ],
+   "origin": "temazepam_label#16"
+  },
+  {
+   "id": "TZ-14",
+   "doc": "temazepam_label",
+   "question": "For how long is temazepam generally used in the short-term treatment of insomnia?",
+   "accept": [
+    "7 to 10 days"
+   ],
+   "sources": [
+    "the short-term treatment of insomnia (generally 7 to 10 days)"
+   ],
+   "origin": "temazepam_label#17"
+  },
+  {
+   "id": "TZ-15",
+   "doc": "temazepam_label",
+   "question": "With what half-life were the metabolites excreted?",
+   "accept": [
+    "approximately 2 hours",
+    "2 hours"
+   ],
+   "sources": [
+    "excreted with a half-life of approximately 2 hours"
+   ],
+   "origin": "temazepam_label#18"
+  },
+  {
+   "id": "TZ-16",
+   "doc": "temazepam_label",
+   "question": "How long was the study in which subjects took a 30 mg capsule 1 hour before retiring?",
+   "accept": [
+    "7 day"
+   ],
+   "sources": [
+    "In a 7 day study, in which subjects were given a 30 mg temazepam capsule 1 hour before retiring"
+   ],
+   "origin": "temazepam_label#19"
+  },
+  {
+   "id": "T8-U1",
+   "doc": "ten_8k",
+   "question": "What was TEN Holdings' revenue for the quarter?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "T8-U2",
+   "doc": "ten_8k",
+   "question": "Who is the Chief Financial Officer of TEN Holdings?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "B8-U1",
+   "doc": "biaf_8k",
+   "question": "What was bioAffinity's net loss for the quarter?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "B8-U2",
+   "doc": "biaf_8k",
+   "question": "How many employees does bioAffinity have?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "P-U1",
+   "doc": "pono_ex21",
+   "question": "What is the termination fee under the Merger Agreement?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "P-U2",
+   "doc": "pono_ex21",
+   "question": "What price per share will Blackstar stockholders receive?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "P-U3",
+   "doc": "pono_ex21",
+   "question": "Who is the Chief Financial Officer of Blackstar Orbital Technologies?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TP-U1",
+   "doc": "ten_pr",
+   "question": "What revenue does TEN expect for the fourth quarter of 2026?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TP-U2",
+   "doc": "ten_pr",
+   "question": "What was TEN's EBITDA for the third quarter of 2026?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TP-U3",
+   "doc": "ten_pr",
+   "question": "How many employees does TEN Holdings have?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TP-U4",
+   "doc": "ten_pr",
+   "question": "What does a TEN subscription cost?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "BP-U1",
+   "doc": "biaf_pr",
+   "question": "What is the price of a CyPath Lung test?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "BP-U2",
+   "doc": "biaf_pr",
+   "question": "How many patients have enrolled in the longitudinal clinical trial?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "BP-U3",
+   "doc": "biaf_pr",
+   "question": "How many CyPath Lung tests were sold in the third quarter?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "BP-U4",
+   "doc": "biaf_pr",
+   "question": "When does bioAffinity expect FDA approval of CyPath Lung?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "DV-U1",
+   "doc": "divalproex_label",
+   "question": "What is the price of divalproex sodium?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "DV-U2",
+   "doc": "divalproex_label",
+   "question": "How many tablets come in a bottle of divalproex sodium?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "DV-U3",
+   "doc": "divalproex_label",
+   "question": "What year was valproate first approved by the FDA?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "DV-U4",
+   "doc": "divalproex_label",
+   "question": "What is the half-life of valproate in dogs?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TZ-U1",
+   "doc": "temazepam_label",
+   "question": "What is the price of temazepam?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TZ-U2",
+   "doc": "temazepam_label",
+   "question": "What year was temazepam first approved by the FDA?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TZ-U3",
+   "doc": "temazepam_label",
+   "question": "What is the oral LD50 of temazepam in dogs?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  },
+  {
+   "id": "TZ-U4",
+   "doc": "temazepam_label",
+   "question": "How many people take temazepam in the United States?",
+   "accept": null,
+   "sources": [],
+   "origin": "unanswerable"
+  }
+ ],
+ "skipped_values": [
+  {
+   "candidate": "ten_8k#1",
+   "reason": "DUPLICATE of November 6, 2026 (T8-1)"
+  },
+  {
+   "candidate": "ten_8k#2",
+   "reason": "DUPLICATE"
+  },
+  {
+   "candidate": "ten_8k#3",
+   "reason": "DUPLICATE"
+  },
+  {
+   "candidate": "biaf_8k#1",
+   "reason": "DUPLICATE of November 6, 2026 (B8-1)"
+  },
+  {
+   "candidate": "biaf_8k#2",
+   "reason": "DUPLICATE"
+  },
+  {
+   "candidate": "biaf_8k#3",
+   "reason": "DUPLICATE"
+  },
+  {
+   "candidate": "ten_pr#2",
+   "reason": "DUPLICATE of September 30, 2025 (TP-1)"
+  },
+  {
+   "candidate": "ten_pr#14",
+   "reason": "DUPLICATE of $0.1 million (TP-11)"
+  },
+  {
+   "candidate": "divalproex_label#8",
+   "reason": "UNASKABLE: '5%' is the upper bound of a list header (>1% but <5% of 358 patients); no natural unique question"
+  },
+  {
+   "candidate": "divalproex_label#9",
+   "reason": "UNASKABLE: '5%' is a table title threshold (Reported by >= 5% of Patients); no natural unique question"
+  },
+  {
+   "candidate": "temazepam_label#7",
+   "reason": "DUPLICATE of 7.5 mg (TZ-5)"
+  },
+  {
+   "candidate": "temazepam_label#10",
+   "reason": "DUPLICATE: '15mg' sits in the strengths list (TZ-3)"
+  },
+  {
+   "candidate": "temazepam_label#11",
+   "reason": "UNASKABLE: '30mg' is part of a product imprint metadata string (30mg;Novel123)"
+  },
+  {
+   "candidate": "temazepam_label#13",
+   "reason": "DUPLICATE: '30 mg' sits in the strengths list (TZ-3)"
+  }
+ ]
+}

@@ -1,0 +1,152 @@
+{"id": "T8-1", "label": "true", "value": "November 6, 2026", "yes": true, "margin": 2.0}
+{"id": "T8-1", "label": "false", "value": "September 30, 2026", "yes": true, "margin": 1.75}
+{"id": "T8-2", "label": "true", "value": "September 30, 2026", "yes": true, "margin": 1.625}
+{"id": "T8-2", "label": "false", "value": "November 6, 2026", "yes": true, "margin": 1.375}
+{"id": "T8-W", "label": "true", "value": "Virgilio Torres", "yes": true, "margin": 2.25}
+{"id": "B8-1", "label": "true", "value": "November 6, 2026", "yes": true, "margin": 2.625}
+{"id": "B8-1", "label": "false", "value": "September 30, 2026", "yes": true, "margin": 1.375}
+{"id": "B8-2", "label": "true", "value": "September 30, 2026", "yes": true, "margin": 2.25}
+{"id": "B8-2", "label": "false", "value": "November 6, 2026", "yes": true, "margin": 0.125}
+{"id": "B8-W", "label": "true", "value": "Maria Zannes", "yes": true, "margin": 2.625}
+{"id": "P-1", "label": "true", "value": "June 30, 2027", "yes": true, "margin": 2.75}
+{"id": "P-1", "label": "false", "value": "August 5, 2026", "yes": false, "margin": 0.0}
+{"id": "P-2", "label": "true", "value": "6,000,000", "yes": true, "margin": 2.5}
+{"id": "P-2", "label": "false", "value": "7,400,000 shares", "yes": true, "margin": 0.75}
+{"id": "P-3", "label": "true", "value": "August 5, 2026", "yes": true, "margin": 0.375}
+{"id": "P-3", "label": "false", "value": "June 30, 2027", "yes": false, "margin": -0.125}
+{"id": "P-4", "label": "true", "value": "$200,000,000", "yes": true, "margin": 1.875}
+{"id": "P-4", "label": "false", "value": "November 5, 2026", "yes": false, "margin": -0.5}
+{"id": "P-5", "label": "true", "value": "November 5, 2026", "yes": true, "margin": 2.0}
+{"id": "P-5", "label": "false", "value": "June 30, 2027", "yes": true, "margin": 1.75}
+{"id": "P-6", "label": "true", "value": "7,400,000", "yes": true, "margin": 2.125}
+{"id": "P-6", "label": "false", "value": "6,000,000 shares", "yes": true, "margin": 0.25}
+{"id": "P-W", "label": "true", "value": "Christopher Jannette", "yes": true, "margin": 2.625}
+{"id": "P-W", "label": "false", "value": "Dustin Shindo", "yes": true, "margin": 2.0}
+{"id": "TP-1", "label": "true", "value": "September 30, 2025", "yes": true, "margin": 1.25}
+{"id": "TP-1", "label": "false", "value": "September 30, 2026", "yes": false, "margin": 0.0}
+{"id": "TP-2", "label": "true", "value": "$0.5 million", "yes": true, "margin": 0.5}
+{"id": "TP-2", "label": "false", "value": "$1,987,000", "yes": false, "margin": -0.875}
+{"id": "TP-3", "label": "true", "value": "$2,185,000", "yes": true, "margin": 0.625}
+{"id": "TP-3", "label": "false", "value": "$0.73 million", "yes": false, "margin": -1.0}
+{"id": "TP-4", "label": "true", "value": "June 30, 2026", "yes": true, "margin": 0.625}
+{"id": "TP-4", "label": "false", "value": "September 30, 2025", "yes": false, "margin": -1.25}
+{"id": "TP-5", "label": "true", "value": "$10,000", "yes": true, "margin": 1.625}
+{"id": "TP-5", "label": "false", "value": "$428,000", "yes": false, "margin": -0.875}
+{"id": "TP-6", "label": "true", "value": "$2,000", "yes": true, "margin": 3.0}
+{"id": "TP-6", "label": "false", "value": "$1.6 million", "yes": false, "margin": -1.125}
+{"id": "TP-7", "label": "true", "value": "$123,000", "yes": true, "margin": 2.125}
+{"id": "TP-7", "label": "false", "value": "$0.4 million", "yes": false, "margin": -1.375}
+{"id": "TP-8", "label": "true", "value": "12.8%", "yes": true, "margin": 2.5}
+{"id": "TP-8", "label": "false", "value": "89.1%", "yes": false, "margin": 0.0}
+{"id": "TP-9", "label": "true", "value": "$0.73 million", "yes": true, "margin": 2.375}
+{"id": "TP-9", "label": "false", "value": "$123,000", "yes": false, "margin": -1.25}
+{"id": "TP-10", "label": "true", "value": "$379,000", "yes": true, "margin": 2.25}
+{"id": "TP-10", "label": "false", "value": "$4,113,000", "yes": false, "margin": -1.75}
+{"id": "TP-11", "label": "true", "value": "$0.1 million", "yes": true, "margin": 2.625}
+{"id": "TP-11", "label": "false", "value": "$1,987,000", "yes": false, "margin": -1.25}
+{"id": "TP-12", "label": "true", "value": "$4,113,000", "yes": true, "margin": 3.125}
+{"id": "TP-12", "label": "false", "value": "$405,000", "yes": false, "margin": -1.875}
+{"id": "TP-13", "label": "true", "value": "$63,000", "yes": true, "margin": 2.375}
+{"id": "TP-13", "label": "false", "value": "$0.3 million", "yes": false, "margin": -0.25}
+{"id": "TP-14", "label": "true", "value": "$4.6 million", "yes": true, "margin": 1.875}
+{"id": "TP-14", "label": "false", "value": "$2,185,000", "yes": false, "margin": -1.5}
+{"id": "TP-15", "label": "true", "value": "$1,987,000", "yes": true, "margin": 0.875}
+{"id": "TP-15", "label": "false", "value": "$4.6 million", "yes": false, "margin": -0.625}
+{"id": "TP-16", "label": "true", "value": "$7.5 million", "yes": true, "margin": 1.875}
+{"id": "TP-16", "label": "false", "value": "$0.5 million", "yes": false, "margin": -1.125}
+{"id": "BP-1", "label": "true", "value": "$ 1,446,066", "yes": true, "margin": 1.25}
+{"id": "BP-1", "label": "false", "value": "$ 10,960,772", "yes": true, "margin": 0.125}
+{"id": "BP-2", "label": "true", "value": "75%", "yes": true, "margin": 2.0}
+{"id": "BP-2", "label": "false", "value": "79%", "yes": false, "margin": 0.0}
+{"id": "BP-3", "label": "true", "value": "$1.2 million", "yes": true, "margin": 0.75}
+{"id": "BP-3", "label": "false", "value": "$2.6 million", "yes": false, "margin": -1.25}
+{"id": "BP-4", "label": "true", "value": "$4.6 million", "yes": true, "margin": 2.875}
+{"id": "BP-4", "label": "false", "value": "$ 1,070,280", "yes": false, "margin": 0.0}
+{"id": "BP-5", "label": "true", "value": "$3.5 million", "yes": true, "margin": 0.625}
+{"id": "BP-5", "label": "false", "value": "$5.1 million", "yes": false, "margin": -0.375}
+{"id": "BP-6", "label": "true", "value": "$143,000", "yes": false, "margin": 0.0}
+{"id": "BP-6", "label": "false", "value": "$1.1 million", "yes": false, "margin": -0.75}
+{"id": "BP-7", "label": "true", "value": "$8.0 million", "yes": true, "margin": 1.375}
+{"id": "BP-7", "label": "false", "value": "$ 3,932,386", "yes": true, "margin": 0.375}
+{"id": "BP-8", "label": "true", "value": "$2.3 million", "yes": true, "margin": 1.625}
+{"id": "BP-8", "label": "false", "value": "$2.2 million", "yes": false, "margin": 0.0}
+{"id": "BP-9", "label": "true", "value": "$0.007", "yes": true, "margin": 2.5}
+{"id": "BP-9", "label": "false", "value": "$2.3 million", "yes": false, "margin": -2.125}
+{"id": "BP-10", "label": "true", "value": "700 shares", "yes": true, "margin": 2.25}
+{"id": "BP-10", "label": "false", "value": "350,000,000 shares", "yes": false, "margin": -0.75}
+{"id": "BP-11", "label": "true", "value": "79%", "yes": true, "margin": 2.0}
+{"id": "BP-11", "label": "false", "value": "92%", "yes": false, "margin": -1.0}
+{"id": "BP-12", "label": "true", "value": "$2.8 million", "yes": true, "margin": 2.5}
+{"id": "BP-12", "label": "false", "value": "$4.0 million", "yes": false, "margin": -0.375}
+{"id": "BP-13", "label": "true", "value": "350,000,000 shares", "yes": true, "margin": 2.625}
+{"id": "BP-13", "label": "false", "value": "150 shares", "yes": true, "margin": 0.375}
+{"id": "BP-14", "label": "true", "value": "89%", "yes": true, "margin": 2.625}
+{"id": "BP-14", "label": "false", "value": "48%", "yes": true, "margin": 0.875}
+{"id": "BP-15", "label": "true", "value": "$ 7,553,671", "yes": true, "margin": 2.125}
+{"id": "BP-15", "label": "false", "value": "$ 1,446,066", "yes": false, "margin": -0.25}
+{"id": "BP-16", "label": "true", "value": "$0.001", "yes": true, "margin": 2.75}
+{"id": "BP-16", "label": "false", "value": "$ 3,932,386", "yes": false, "margin": -0.75}
+{"id": "DV-1", "label": "true", "value": "50 to 100 mcg/mL", "yes": true, "margin": 1.25}
+{"id": "DV-1", "label": "false", "value": "500 mg", "yes": false, "margin": -0.375}
+{"id": "DV-2", "label": "true", "value": "0.4 mcg/mL to 3.9 mcg/mL", "yes": true, "margin": 1.875}
+{"id": "DV-2", "label": "false", "value": "25°C", "yes": true, "margin": 0.875}
+{"id": "DV-3", "label": "true", "value": "169 patients", "yes": true, "margin": 2.875}
+{"id": "DV-3", "label": "false", "value": "60 mg/kg/day", "yes": false, "margin": -0.75}
+{"id": "DV-4", "label": "true", "value": "72 patients", "yes": true, "margin": 2.875}
+{"id": "DV-4", "label": "false", "value": "4 patients", "yes": false, "margin": -0.125}
+{"id": "DV-5", "label": "true", "value": "9 to 16 hours", "yes": true, "margin": 2.375}
+{"id": "DV-5", "label": "false", "value": "22 weeks", "yes": false, "margin": -0.75}
+{"id": "DV-6", "label": "true", "value": "300 mg TID", "yes": true, "margin": 2.0}
+{"id": "DV-6", "label": "false", "value": "250 mg", "yes": false, "margin": -0.625}
+{"id": "DV-7", "label": "true", "value": "50%", "yes": true, "margin": 1.25}
+{"id": "DV-7", "label": "false", "value": "63%", "yes": false, "margin": -1.75}
+{"id": "DV-8", "label": "true", "value": "60 mg/kg/day", "yes": true, "margin": 0.875}
+{"id": "DV-8", "label": "false", "value": "500 mg", "yes": false, "margin": 0.0}
+{"id": "DV-9", "label": "true", "value": "over 40%", "yes": true, "margin": 2.0}
+{"id": "DV-9", "label": "false", "value": "30%", "yes": false, "margin": -0.375}
+{"id": "DV-10", "label": "true", "value": "27%", "yes": true, "margin": 2.625}
+{"id": "DV-10", "label": "false", "value": "20%", "yes": false, "margin": -1.75}
+{"id": "DV-11", "label": "true", "value": "30 to 50%", "yes": true, "margin": 2.25}
+{"id": "DV-11", "label": "false", "value": "54%", "yes": false, "margin": -1.875}
+{"id": "DV-12", "label": "true", "value": "0.24%", "yes": true, "margin": 1.75}
+{"id": "DV-12", "label": "false", "value": "15%", "yes": false, "margin": -0.5}
+{"id": "DV-13", "label": "true", "value": "44%", "yes": true, "margin": 2.125}
+{"id": "DV-13", "label": "false", "value": "0.07%", "yes": false, "margin": -0.75}
+{"id": "DV-14", "label": "true", "value": "110 mcg/mL", "yes": true, "margin": 1.375}
+{"id": "DV-14", "label": "false", "value": "20 mg/kg/day", "yes": false, "margin": -0.75}
+{"id": "DV-15", "label": "true", "value": "4 weeks to 19 weeks", "yes": true, "margin": 2.375}
+{"id": "DV-15", "label": "false", "value": "6 years", "yes": true, "margin": 1.25}
+{"id": "DV-16", "label": "true", "value": "17%", "yes": true, "margin": 2.375}
+{"id": "DV-16", "label": "false", "value": "25%", "yes": false, "margin": -1.25}
+{"id": "TZ-1", "label": "true", "value": "1 hour", "yes": true, "margin": 1.875}
+{"id": "TZ-1", "label": "false", "value": "77°F", "yes": true, "margin": 0.125}
+{"id": "TZ-2", "label": "true", "value": "30 minutes", "yes": true, "margin": 2.125}
+{"id": "TZ-2", "label": "false", "value": "10 hours", "yes": false, "margin": -0.125}
+{"id": "TZ-3", "label": "true", "value": "7.5 mg, 15 mg, 22.5 mg and 30 mg", "yes": true, "margin": 2.625}
+{"id": "TZ-3", "label": "false", "value": "10 hours", "yes": false, "margin": 0.0}
+{"id": "TZ-4", "label": "true", "value": "90%", "yes": true, "margin": 0.875}
+{"id": "TZ-4", "label": "false", "value": "8%", "yes": true, "margin": 0.875}
+{"id": "TZ-5", "label": "true", "value": "7.5 mg", "yes": true, "margin": 2.0}
+{"id": "TZ-5", "label": "false", "value": "8.8 hours", "yes": false, "margin": -0.75}
+{"id": "TZ-6", "label": "true", "value": "68°F to 77°F", "yes": true, "margin": 2.0}
+{"id": "TZ-6", "label": "false", "value": "7.5 mg", "yes": true, "margin": 0.25}
+{"id": "TZ-7", "label": "true", "value": ">2400 mg/kg", "yes": true, "margin": 1.375}
+{"id": "TZ-7", "label": "false", "value": "22.5 mg", "yes": false, "margin": -0.5}
+{"id": "TZ-8", "label": "true", "value": "80% to 90%", "yes": true, "margin": 1.375}
+{"id": "TZ-8", "label": "false", "value": "0.5%", "yes": false, "margin": -1.75}
+{"id": "TZ-9", "label": "true", "value": "10 to 20 minutes", "yes": true, "margin": 2.5}
+{"id": "TZ-9", "label": "false", "value": "1.5 hours", "yes": true, "margin": 2.25}
+{"id": "TZ-10", "label": "true", "value": "at least 2 weeks", "yes": true, "margin": 1.125}
+{"id": "TZ-10", "label": "false", "value": "30 mg", "yes": false, "margin": -0.25}
+{"id": "TZ-11", "label": "true", "value": "2 week", "yes": true, "margin": 1.625}
+{"id": "TZ-11", "label": "false", "value": "22.5 mg", "yes": false, "margin": -0.5}
+{"id": "TZ-12", "label": "true", "value": "0.4 to 0.6 hours", "yes": true, "margin": 2.75}
+{"id": "TZ-12", "label": "false", "value": "22.5 mg", "yes": false, "margin": 0.0}
+{"id": "TZ-13", "label": "true", "value": "1.5 hours", "yes": true, "margin": 2.625}
+{"id": "TZ-13", "label": "false", "value": "24 hour", "yes": false, "margin": -0.375}
+{"id": "TZ-14", "label": "true", "value": "7 to 10 days", "yes": true, "margin": 2.125}
+{"id": "TZ-14", "label": "false", "value": "18.4 hours", "yes": false, "margin": -0.75}
+{"id": "TZ-15", "label": "true", "value": "approximately 2 hours", "yes": true, "margin": 0.75}
+{"id": "TZ-15", "label": "false", "value": "2 weeks", "yes": false, "margin": -0.25}
+{"id": "TZ-16", "label": "true", "value": "7 day", "yes": true, "margin": 1.875}
+{"id": "TZ-16", "label": "false", "value": "30 mg", "yes": true, "margin": 0.625}

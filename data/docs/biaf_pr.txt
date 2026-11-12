@@ -1,0 +1,124 @@
+EX-99.1 2 ex99-1.htm EX-99.1
+Exhibit 99.1
+News Release
+bioAffinity Technologies Reports Third Quarter 2026 Results and Continued Momentum in CyPath® Lung Commercialization
+CyPath® Lung test unit sales double year to date over 2025, with solid gains in physician utilization and recurring orders; testing revenue increases 79% year-to-date
+Company advances precision medicine pipeline with new asthma and COPD research, collaboration with Pictor and continued development of topical skin cancer therapeutics
+SAN ANTONIO, Texas – November 6, 2026 – bioAffinity Technologies, Inc. (Nasdaq: BIAF; BIAFW), a biotechnology company developing noninvasive healthcare solutions for the early detection and monitoring of lung disease and topically delivered therapeutics for skin cancer, today reported financial results and business highlights for the third quarter (Q3) ended September 30, 2026.
+Q3 2026 Highlights and Recent Events
+● CyPath® Lung test unit sales increased 100% through Q3 compared to the first nine months of 2025.
+● CyPath Lung testing revenue for the first nine months of 2026 increased 79% to approximately $1.1 million, compared to the same period in 2025.
+● In July 2026, the Company surpassed the total number of CyPath Lung test reports delivered to physicians during 2025.
+● The number of ordering physicians increased by 89% in the third quarter of 2026 compared to the third quarter of 2025, continuing to expand clinical utilization of CyPath Lung. Physicians already ordering CyPath Lung tests increased their volume by 48% year over year.
+● The Company expanded its government healthcare distribution network and commercial reach through an agreement with AvMEDICAL, a Service-Disabled Veteran-Owned Small Business and established distributor of medical-surgical and laboratory products and services to government agencies, including the Department of Veterans Affairs (VA).
+● The ongoing longitudinal clinical trial designed to evaluate the clinical performance of CyPath Lung continued to advance. As of September 30, 2026, 11 clinical sites were active, including nine VA and military medical centers that had begun patient enrollment. The John P. Murtha Cancer Center Research Program at the Uniformed Services University of the Health Sciences is providing support and funding for the trial.
+-1-
+● In July, the Company published a comprehensive clinical review and white paper authored by Chief Medical Officer Gordon H. Downie, MD, PhD, presenting a practical framework for incorporating CyPath Lung into pulmonology and oncology practices. Dr. Downie presented the framework to physicians in October at the annual meeting of the American College of Chest Physicians (CHEST 2026).
+● The Company advanced CyPath Lung for potential use in surveillance of lung cancer survivors as a complement to imaging to monitor patients for cancer recurrence and new primary lung cancers.
+● The Company presented positive research results at CHEST 2026 relating to its development of noninvasive tests to characterize lung inflammation and investigate biologic drug targets for asthma and COPD therapies. Further development and validation are underway to determine whether this approach can identify patients who may benefit from specific biologic therapies or support monitoring of lung inflammation over time.
+● The Company announced a collaboration with Pictor®, Inc., a targeted proteomic platform company, to support development and potential commercialization of bioAffinity Technologies’ next-generation diagnostic tests designed to provide a more complete picture of lung inflammation in patients with asthma and COPD.
+● The Company continued research into potential topically delivered therapeutics for squamous and basal cell skin cancers. Preliminary research findings have demonstrated that self-delivering, stabilized small interfering RNAs (siRNAs) selectively kill squamous and basal carcinoma cells in vitro while sparing noncancerous cutaneous cells.
+● In September, bioAffinity announced the grant of a Hong Kong patent covering CyPath Lung’s proprietary flow cytometry + AI platform for predicting the likelihood of lung cancer by characterizing cell populations in sputum. In October, the Company received a Notice of Allowance from the Japan Patent Office indicating its intention to grant a patent for the method of predicting the likelihood of lung cancer used by the CyPath Lung test.
+● The Company raised an aggregate of $8.0 million in gross proceeds through a private placement offering in August 2026 and a registered direct offering and concurrent private placement in October 2026 for working capital and general corporate purposes, including support for the ongoing commercialization of CyPath Lung.
+Management Commentary
+“Our third-quarter results reflect CyPath Lung’s continued momentum in addressing the critical need for early lung cancer detection, driven by both new physicians ordering the test and increased use by existing customers. We believe this growth reflects increasing physician engagement and recognition of the role CyPath Lung can play in managing care for patients at risk for lung cancer. We are also advancing its potential use in surveillance following curative-intent treatment, where CyPath Lung could complement imaging in monitoring for recurrence and new cancers,” said Maria Zannes, President of CEO of bioAffinity Technologies. “Peer-to-peer education and growing clinical experience with the test remain important drivers of adoption, while our longitudinal study is designed to generate robust, real-world data across multiple sites to further evaluate how CyPath Lung may support risk assessment and clinical decision-making. Together, these efforts advance our objective of establishing CyPath Lung as a standard of care for evaluating patients at risk for lung cancer.
+-2-
+“We continue to build the foundation for long-term growth. Beyond lung cancer, we are advancing our platform to take advantage of precision medicine opportunities in asthma and COPD, where sputum-based analysis may help characterize lung inflammation and help physicians better match individual patients to available treatments, including Tezspire, Dupixent and Nucala. The tests we are developing are designed to meet a critical need for precision diagnostics in the multi-billion-dollar asthma and COPD therapeutic markets.
+“Our patent portfolio now includes 22 awarded U.S. and foreign patents and 36 pending applications. The recent Hong Kong patent and the Japanese patent allowance, once awarded, are important additions to our patent portfolio. Our distribution agreement with AvMEDICAL is intended to expand our reach into government healthcare markets, including the VA, where the substantial burden of lung cancer underscores the need for more effective ways to evaluate pulmonary nodules and improve patient outcomes.
+Ms. Zannes concluded, “Our priorities remain disciplined execution, expanding commercial adoption and advancing our clinical and research programs. We are also pursuing topical therapeutic approaches for squamous and basal cell skin cancers based on promising findings involving the CD320 and LRP2 receptors. We believe our expertise in flow cytometry, automated data analysis and siRNA technology provides a foundation for developing differentiated products across these markets. Together, these programs demonstrate our commitment to translating scientific innovation into meaningful new opportunities for patients and the Company.”
+Third Quarter 2026 Financial Results
+Total revenue for the quarter ended September 30, 2026, was approximately $1.1 million, compared with approximately $1.4 million for the same period in 2025. The decrease is due primarily to a decrease in average reimbursement per CyPath Lung test and a slight decline in total cases completed at Precision Pathology Laboratory Services (PPLS) compared to the same period in 2025, in part due to internal business changes at three PPLS research clients. Multiple accounts previously serviced under these clients have since returned to PPLS. The Company is working to restore additional accounts and improve reimbursement levels.
+Net loss for the quarter ended September 30, 2026, was approximately $5.3 million, compared with approximately $5.1 million for the third quarter of 2025. The increase in net loss is primarily due to the increase in loss from operations of approximately $3.5 million from approximately $2.3 million in the prior-year quarter, partially offset by a $1.2 million loss from the change in fair value of warrants, compared with a $2.7 million loss in the prior-year quarter.
+Cash and cash equivalents were approximately $2.6 million as of September 30, 2026, compared with approximately $6.4 million at December 31, 2025. Subsequent to quarter-end, the Company completed a financing that generated approximately $4.0 million in gross proceeds.
+Operating expenses for the third quarter of 2026 were approximately $4.6 million, compared with approximately $3.7 million in the third quarter of 2025.
+● Direct costs and expenses were approximately $1.1 million, compared with $942,000 in the prior-year period. The increase primarily reflected additional personnel to process CyPath Lung commercial tests and tests associated with the longitudinal clinical study.
+● Research and development expenses increased 18% year over year to approximately $389,000, primarily due to laboratory supplies and costs associated with relocating laboratory facilities in June 2026.
+-3-
+● Clinical development expenses increased 75% to approximately $251,000, compared with approximately $143,000 in the third quarter of 2025. The increase primarily reflected the initiation of clinical trial sites and patient enrollment in the longitudinal clinical study.
+● Selling, general and administrative expenses increased 28% to approximately $2.8 million, compared with approximately $2.2 million in the prior-year period. The increase primarily reflected additional sales and marketing personnel and support services to expand commercialization of CyPath Lung.
+About CyPath Lung
+CyPath Lung by bioAffinity Technologies is a noninvasive test designed to improve the early detection of lung cancer in patients at high risk for the disease. CyPath Lung analyzes the lung microenvironment by using advanced flow cytometry and proprietary artificial intelligence (AI) to identify cell populations in patient sputum that indicate malignancy. The test incorporates a novel fluorescent porphyrin that is preferentially taken up by cancer and cancer-related cells. In a published clinical trial of high-risk patients, CyPath Lung demonstrated 92% sensitivity, 87% specificity, 88% accuracy and 99% negative predictive value (NPV) in detecting lung cancer in patients at high risk for the disease who had small indeterminate lung nodules less than 20 millimeters. The high NPV gives physicians greater confidence that a negative result is truly negative, potentially sparing patients from unnecessary invasive and costly procedures. CyPath Lung is marketed as a Laboratory Developed Test (LDT) and is not intended for use as a sole diagnostic tool and should be considered alongside other clinical findings. For more information, visit www.cypathlung.com.
+About bioAffinity Technologies, Inc.
+bioAffinity Technologies, Inc. addresses the need for noninvasive diagnosis of early-stage cancer and other diseases of the lung and broad-spectrum cancer treatments. The Company’s first product, CyPath Lung, is a noninvasive test that has shown high sensitivity, specificity and accuracy for the detection of early-stage lung cancer. CyPath Lung is marketed as a Laboratory Developed Test (LDT) by Precision Pathology Laboratory Services, a subsidiary of bioAffinity Technologies. LDTs are overseen under the Clinical Laboratory Improvement Amendments (CLIA), which are administered by the Centers for Medicare & Medicaid Services. For more information, visit www.bioaffinitytech.com.
+Forward-Looking Statements
+Certain statements in this press release constitute “forward-looking statements” within the meaning of the federal securities laws. Words such as “may,” “might,” “will,” “should,” “believe,” “expect,” “anticipate,” “estimate,” “continue,” “predict,” “forecast,” “project,” “plan,” “intend” and similar expressions may identify forward-looking statements, although not all forward-looking statements contain these words. Actual results could differ materially from those expressed or implied because of risks and uncertainties, including the Company’s ability to expand the commercial adoption of CyPath Lung and capitalize on government healthcare market opportunities; the timing, cost, enrollment and outcome of clinical studies; the possibility that preliminary, in vitro or study-specific findings will not be replicated or translate into safe and effective therapies or commercial products for asthma, COPD or skin cancer; the need for further validation of new applications, including surveillance; the extent and timing of physician adoption, repeat utilization and customer retention; payer coverage, reimbursement rates and collections; and the Company’s ability to obtain, maintain and enforce intellectual property rights. Additional risks are discussed in the Company’s Annual Report on Form 10-K for the year ended December 31, 2025, and subsequent SEC filings, including its reports on Forms 10-Q and 8-K. Forward-looking statements reflect expectations and assumptions only as of the date of this release. Readers should not place undue reliance on them. The Company undertakes no obligation to update these statements, except as required by applicable law.
+Contact
+bioAffinity Technologies
+Julie Anne Overton
+Director of Communications
+investors@bioaffinitytech.com
+-4-
+bioAffinity Technologies, Inc.
+Condensed Consolidated Balance Sheets
+September 30,
+2026
+December 31,
+2025
+(unaudited)
+ASSETS
+Current assets:
+Cash and cash equivalents $ 2,550,034 $ 6,449,782
+Accounts and other receivables, net 742,144 541,962
+Inventory 108,754 53,548
+Prepaid expenses and other current assets 427,230 519,916
+Total current assets 3,828,162 7,565,208
+Non-current assets:
+Property and equipment, net 362,359 265,593
+Operating lease right-of-use asset, net 730,572 334,289
+Finance lease right-of-use asset, net 538,326 661,575
+Goodwill 1,404,486 1,404,486
+Intangible assets, net 673,056 716,806
+Other assets 16,710 12,815
+Total assets $ 7,553,671 $ 10,960,772
+LIABILITIES AND STOCKHOLDERS’ EQUITY
+Current liabilities:
+Accounts payable $ 949,018 $ 761,901
+Accrued expenses 1,143,227 1,717,989
+Unearned revenue 48,874 42,405
+Operating lease liability, current portion 168,534 139,220
+Finance lease liability, current portion 78,926 139,490
+Notes payable, current portion 144,715 105,161
+Total current liabilities 2,533,294 2,906,166
+Non-current liabilities:
+Operating lease liability, net of current portion 596,086 202,878
+Finance lease liability, net of current portion 475,772 532,759
+Notes payable, net of current portion 33,958 41,313
+Total liabilities 3,639,110 3,683,116
+Stockholders’ equity:
+Preferred Stock, par value $0.001 per share; 20,000,000 shares authorized; 150 shares and 700 shares issued and outstanding at September 30, 2026, and December 31, 2025, respectively 1 1
+Common Stock, par value $0.007 per share; 350,000,000 shares authorized; 1,166,625 and 299,826 issued and outstanding at September 30, 2026, and December 31, 2025, respectively 8,166 2,097
+Additional paid-in capital 84,734,173 75,829,622
+Accumulated deficit (80,827,779 ) (68,554,064 )
+Total stockholders’ equity 3,914,561 7,277,656
+Total liabilities and stockholders’ equity $ 7,553,671 $ 10,960,772
+-5-
+bioAffinity Technologies, Inc.
+Unaudited Condensed Consolidated Statements of Operations
+Three Months Ended
+September 30,
+Nine Months Ended
+September 30,
+2026 2025 2026 2025
+Net revenue $ 1,070,280 $ 1,446,066 $ 3,932,386 $ 4,569,146
+Operating expenses:
+Direct costs and expenses 1,114,176 942,211 3,130,649 3,326,673
+Research and development 389,122 330,589 1,100,404 1,009,347
+Clinical development 251,043 143,311 1,060,968 410,943
+Selling, general and administrative 2,759,769 2,209,441 8,859,961 6,876,551
+Depreciation and amortization 66,842 113,360 242,916 381,177
+Total operating expenses 4,580,952 3,738,912 14,394,898 12,004,691
+Loss from operations (3,510,672 ) (2,292,846 ) (10,462,512 ) (7,435,545 )
+Other income (expense):
+Interest income 4,734 1,088 18,118 3,655
+Interest expense (10,713 ) (5,358 ) (37,123 ) (31,303 )
+Other income 3,144 513 6,516 38,568
+Other expense (13,072 ) (3,839 ) (48,270 ) (16,828 )
+Offering costs allocated to warrant liability (532,209 ) — (532,209 ) (479,696 )
+Loss on warrant liabilities (1,218,235 ) (2,747,460 ) (1,218,235 ) (3,810,278 )
+Total other income (expense), net (1,766,351 ) (2,755,056 ) (1,811,203 ) (4,295,882 )
+Net loss before provision for income tax expense (5,277,023 ) (5,047,902 ) (12,273,715 ) (11,731,427 )
+Income tax expense — 3,182 — 40,861
+Net loss $ (5,277,023 ) $ (5,051,084 ) $ (12,273,715 ) $ (11,772,288 )
+Net loss per common share, basic and diluted $ (5.89 ) $ (71.05 ) $ (23.72 ) $ (219.47 )
+Weighted average common shares outstanding 896,271 71,090 517,490 53,640
+-6-

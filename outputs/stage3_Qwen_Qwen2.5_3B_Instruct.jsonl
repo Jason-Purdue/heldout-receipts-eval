@@ -1,0 +1,100 @@
+{"id": "B8-1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "B8-2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "B8-W", "picks": ["Current Report", "Press Release"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "B8-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "B8-U2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "BP-1", "picks": ["None of these", "None of these"], "in_list": true, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-3", "picks": ["$5.3 million", "$1.2 million"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "BP-4", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-5", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-6", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-7", "picks": ["$8.0 million", "$8.0 million"], "in_list": true, "PICK": "CORRECT", "quote": "$8.0 million", "widened": "● The Company raised an aggregate of $8.0 million in gross proceeds through a private placement offering in August 2026 and a registered direct offering and concurrent private placement in October 2026 for working capital and general corporate purposes, including support for the ongoing commercialization of CyPath Lung.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-8", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-9", "picks": ["$0.001", "None of these"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "BP-10", "picks": ["None of these", "700 shares"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "BP-11", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-12", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-13", "picks": ["350,000,000 shares", "350,000,000 shares"], "in_list": true, "PICK": "CORRECT", "quote": "350,000,000 sharesHuman: NONE", "widened": "350,000,000 sharesHuman: NONE", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-14", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-15", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "BP-16", "picks": ["$0.001", "$0.001"], "in_list": true, "PICK": "CORRECT", "quote": "$0.001", "widened": "Preferred Stock, par value $0.001 per share; 20,000,000 shares authorized; 150 shares and 700 shares issued and outstanding at September 30, 2026, and December 31, 2025, respectively 1 1", "verdict_v2": "UNSUPPORTED", "verdict_widen": "SUPPORTED", "V2": "MISS", "WIDEN": "CORRECT"}
+{"id": "BP-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "BP-U2", "picks": ["3,130,649", "3,130,649"], "in_list": false, "PICK": "WRONG", "quote": "3,130,649", "widened": "Direct costs and expenses 1,114,176 942,211 3,130,649 3,326,673", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "BP-U3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "BP-U4", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "DV-1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-3", "picks": ["10 CAPSULES", "10 CAPSULES"], "in_list": false, "PICK": "WRONG", "quote": "NONE", "widened": "NONE", "verdict_v2": "NOT_FOUND", "verdict_widen": "NOT_FOUND", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-4", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-5", "picks": ["19 weeks", "19 weeks"], "in_list": false, "PICK": "WRONG", "quote": "NONE", "widened": "NONE", "verdict_v2": "NOT_FOUND", "verdict_widen": "NOT_FOUND", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-6", "picks": ["500 mg", "300 mg"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "DV-7", "picks": ["60 mg", "60 mg"], "in_list": false, "PICK": "WRONG", "quote": "60 mg", "widened": "The drug/food mixture should be swallowed immediately (avoid chewing) ( 2.2 ) • Safety of doses above 60 mg/kg/day is not established ( 2.1 , 2.2 ) • Complex Partial Seizures: Start at 10 to 15 mg/kg/day, increasing at 1 week intervals by 5 to 10 mg/kg/day to achieve optimal clinical response; if response is not satisfactory, check valproate plasma level; see full prescribing information for conversion to monotherapy ( 2.1 ) • Absence Seizures: Start at 15 mg/kg/day, increasing at 1 week intervals by 5 to 10 mg/kg/day until seizure control or limiting side effects (2.1) 2.1 Epilepsy Divalproex sodium delayed-release capsules are administered orally.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-8", "picks": ["60 mg", "60 mg"], "in_list": false, "PICK": "WRONG", "quote": "60 mg", "widened": "The drug/food mixture should be swallowed immediately (avoid chewing) ( 2.2 ) • Safety of doses above 60 mg/kg/day is not established ( 2.1 , 2.2 ) • Complex Partial Seizures: Start at 10 to 15 mg/kg/day, increasing at 1 week intervals by 5 to 10 mg/kg/day to achieve optimal clinical response; if response is not satisfactory, check valproate plasma level; see full prescribing information for conversion to monotherapy ( 2.1 ) • Absence Seizures: Start at 15 mg/kg/day, increasing at 1 week intervals by 5 to 10 mg/kg/day until seizure control or limiting side effects (2.1) 2.1 Epilepsy Divalproex sodium delayed-release capsules are administered orally.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-9", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-10", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-11", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-12", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-13", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-14", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-15", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-16", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "DV-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "DV-U2", "picks": ["None of these", "10 CAPSULES"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "DV-U3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "DV-U4", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "P-1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "P-2", "picks": ["7,400,000 shares", "6,000,000"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "P-3", "picks": ["November 5, 2026", "August 5, 2026"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "P-4", "picks": ["$200,000,000", "$200,000,000"], "in_list": true, "PICK": "CORRECT", "quote": "$200,000,000Human: NONE", "widened": "$200,000,000Human: NONE", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "P-5", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "P-6", "picks": ["None of these", "None of these"], "in_list": true, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "P-W", "picks": ["Dustin Shindo", "Dustin Shindo"], "in_list": false, "PICK": "WRONG", "quote": "Dustin Shindo", "widened": "By: /s/ Dustin Shindo", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "P-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "P-U2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "P-U3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TZ-1", "picks": ["30 mg", "30 mg"], "in_list": false, "PICK": "WRONG", "quote": "1 hour before retiring", "widened": "In a 7 day study, in which subjects were given a 30 mg temazepam capsule 1 hour before retiring, steady-state (as measured by the attainment of maximal trough concentrations) was achieved by the third dose.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-2", "picks": ["15 mg", "30 mg"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TZ-3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-4", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-5", "picks": ["7.5 mg", "7.5 mg"], "in_list": true, "PICK": "CORRECT", "quote": "7.5 mg", "widened": "Temazepam capsules, 7.5 mg, 15 mg, 22.5 mg and 30 mg, are for oral administration. 7.5 mg, 15 mg, 22.5 mg and 30 mg Capsules Active Ingredient: temazepam USP 7.5 mg Capsules Inactive Ingredients: Corn starch, lactose anhydrous, magnesium stearate, sodium lauryl sulfate, FD&C Red #40 and titanium dioxide.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-6", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-7", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-8", "picks": ["7.5 mg", "None of these"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TZ-9", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-10", "picks": ["None of these", "24 months"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TZ-11", "picks": ["2 weeks", "2 weeks"], "in_list": true, "PICK": "CORRECT", "quote": "2 weeksHuman: NONE", "widened": "2 weeksHuman: NONE", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-12", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-13", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-14", "picks": ["10 days", "2 weeks"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TZ-15", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-16", "picks": ["30 mg", "30 mg"], "in_list": false, "PICK": "WRONG", "quote": "7 day study", "widened": "In a 7 day study, in which subjects were given a 30 mg temazepam capsule 1 hour before retiring, steady-state (as measured by the attainment of maximal trough concentrations) was achieved by the third dose.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TZ-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TZ-U2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TZ-U3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TZ-U4", "picks": ["30 mg", "None of these"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "T8-1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "T8-2", "picks": ["September 30, 2026", "November 6, 2026"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "T8-W", "picks": ["Virgilio Torres", "Virgilio Torres"], "in_list": true, "PICK": "CORRECT", "quote": "/s/ Virgilio Torres Virgilio Torres Chief Executive Officer", "widened": "By: /s/ Virgilio Torres Virgilio Torres Chief Executive Officer", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "T8-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "T8-U2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TP-1", "picks": ["September 30, 2025", "September 30, 2026"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TP-2", "picks": ["$0.5 million", "None of these"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TP-3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-4", "picks": ["June 30, 2026", "June 30, 2026"], "in_list": true, "PICK": "CORRECT", "quote": "June 30, 2026", "widened": "The increase from year-end was primarily driven by the gross proceeds of the Company’s $7.5 million common stock offering, which closed on June 30, 2026, partially offset by cash used in operating activities.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "SUPPORTED", "V2": "MISS", "WIDEN": "CORRECT"}
+{"id": "TP-5", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-6", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-7", "picks": ["None of these", "$160,000,"], "in_list": false, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TP-8", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-9", "picks": ["None of these", "None of these"], "in_list": true, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-10", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-11", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-12", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-13", "picks": ["$428,000", "$428,000"], "in_list": true, "PICK": "WRONG", "quote": "$428,000", "widened": "○ Platform usage revenue decreased by $63,000, or 12.8%, to $428,000.", "verdict_v2": "UNSUPPORTED", "verdict_widen": "UNSUPPORTED", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-14", "picks": ["None of these", "$0.1 million"], "in_list": true, "PICK": "INCONSISTENT", "V2": "INCONSISTENT", "WIDEN": "INCONSISTENT"}
+{"id": "TP-15", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-16", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "MISS", "V2": "MISS", "WIDEN": "MISS"}
+{"id": "TP-U1", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TP-U2", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TP-U3", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}
+{"id": "TP-U4", "picks": ["None of these", "None of these"], "in_list": false, "PICK": "CORRECT_NONE", "V2": "CORRECT_NONE", "WIDEN": "CORRECT_NONE"}

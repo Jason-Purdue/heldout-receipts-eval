@@ -1,0 +1,34 @@
+EX-2.1 2 ex2-1.htm EX-2.1
+Exhibit 2.1
+FIRST AMENDMENT TO THE
+MERGER AGREEMENT
+Dated as of November 5, 2026
+This First Amendment to the Merger Agreement (this “Amendment”) is made and entered into as of the date first set forth above (the “Amendment Date”) by and among (i) Pono Capital Four, Inc., a Cayman Islands exempted company (“Parent”), (ii) Pono Four Merger Sub, Inc., a Delaware corporation and a wholly-owned subsidiary of Parent (“Merger Sub”), and (iii) Blackstar Orbital Technologies Corporation, a Delaware corporation (the “Company”). Parent, Merger Sub and the Company are sometimes referred to herein individually as a “Party” and, collectively, as the “Parties.”
+WHEREAS the Parties are all of the Parties to that certain Merger Agreement dated as of August 5, 2026 (as may be amended, modified or supplemented from time to time, the “Merger Agreement”); and
+WHEREAS, the Parties now desire to amend the Merger Agreement;
+NOW THEREFORE, in consideration of the mutual agreements contained herein and for good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, and intending to be legally bound hereby, the Parties hereby agree as follows:
+1. Definitions. Capitalized terms used but not defined herein shall have the meanings assigned to such terms in the Merger Agreement.
+2. Amendments. Pursuant to the provisions of Section 11.2(a) of the Merger Agreement, the Merger Agreement is hereby amended as follows:
+(a) Base Purchase Price. The definition of “Base Purchase Price” in Section 1.1 of the Merger Agreement is hereby amended and restated in its entirety to read as follows: ““Base Purchase Price” means $200,000,000. For the avoidance of doubt, the Base Purchase Price shall not be reduced by and shall not otherwise be subject to adjustment based on, any debt, indebtedness, net debt, debt-like items, prepayment penalties, accrued liabilities, unpaid Company transaction expenses, transaction bonuses, or similar items.”
+(b) Equity Plan Reserve. (i) The definition of “Equity Plan Reserve” in Section 1.1 of the Merger Agreement is hereby amended by replacing “6,000,000 Parent Shares” with “7,400,000 Parent Shares”; (ii) Section 3.1(f) of the Merger Agreement is hereby amended by replacing “(i.e., up to 6,000,000 shares)” with “(i.e., up to 7,400,000 shares)”; and (iii) Section 3.7(a)(vii)(D) of the Merger Agreement is hereby amended by replacing “(not to exceed 6,000,000 shares)” with “(not to exceed 7,400,000 shares)”. Any other reference in the Merger Agreement or the Ancillary Agreements (including the Equity Incentive Plan) to the number of Parent Shares reserved for issuance under the Equity Incentive Plan as of the Closing shall be deemed to refer to 7,400,000 Parent Shares.
+(c) Company Outside Closing Date. The definition of “Company Outside Closing Date” in Section 1.1 of the Merger Agreement is hereby amended and restated in its entirety to read as follows: ““Company Outside Closing Date” means June 30, 2027.”
+1
+3. Effect of Amendment; Full Force and Effect. This Amendment shall form a part of the Merger Agreement for all purposes, and each Party shall be bound hereby and this Amendment and the Merger Agreement shall be read and interpreted as one combined instrument. From and after the Amendment Date, each reference in the Merger Agreement to “this Agreement,” “hereof,” “hereunder,” “herein,” “hereby” or words of like import referring to the Merger Agreement shall mean and be a reference to the Merger Agreement as amended by this Amendment. Except as herein expressly amended or otherwise provided herein, each and every term, condition, warranty and provision of the Merger Agreement shall remain in full force and effect, and such are hereby ratified, confirmed and approved by the Parties.
+4. Governing Law. This Amendment shall be governed by, and construed in accordance with, the Laws of the State of New York, without giving effect to any choice of law or conflict of law provision or rule that would cause the application of the Law of any other jurisdiction. Sections 11.15 (Waiver of Jury Trial) and 11.16 (Submission to Jurisdiction) of the Merger Agreement shall apply to this Amendment, mutatis mutandis.
+5. Counterparts. This Amendment may be executed in one or more counterparts, each of which shall be deemed to be an original, but all of which shall constitute one and the same agreement. Delivery of an executed counterpart of a signature page to this Amendment by electronic means, including DocuSign, Adobe Sign or other similar e-signature services, e-mail or scanned pages shall be effective as delivery of a manually executed counterpart to this Amendment.
+[Signature Pages Follow]
+2
+IN WITNESS WHEREOF, each of the Parties has caused this Amendment to be duly executed on its behalf as of the Amendment Date.
+PONO CAPITAL FOUR, INC.
+By: /s/ Dustin Shindo
+Name: Dustin Shindo
+Title: Chief Executive Officer
+PONO FOUR MERGER SUB, INC.
+By: /s/ Dustin Shindo
+Name: Dustin Shindo
+Title: Chief Executive Officer
+BLACKSTAR ORBITAL TECHNOLOGIES CORPORATION
+By: /s/ Christopher Jannette
+Name: Christopher Jannette
+Title: Chief Executive Officer
+[Signature Page to First Amendment to the Merger Agreement]
